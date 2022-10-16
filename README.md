@@ -8,4 +8,17 @@ En esta aplicación, se obtienen los datos de los centros de salud con "Buenas P
 * Dirección
 * Contacto
 
+# Lo que use...
+
+* Google maps : play-services-maps:18.1.0
+* Volley : volley:1.2.1
+* Gson : gson:2.9.1
+
+# Imagenes del proyecto
+
+![Cargando mapa](/imagenes/carga.png "Cargando mapa")
+![Mapa listo](/imagenes/mapa_listo.png "Mapa listo")
+![Datos centro](/imagenes/datos_centro.png "Datos centro")
+![Datos centro (scrolling)](/imagenes/datos_centro_2.png "Datos centro (scrolling)")
+
 

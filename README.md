@@ -1,2 +1,11 @@
-# googlemaps_practica
-Google Maps - Prueba - Obtención de datos y armado del pama con muestra de datos de lugares marcados
+# Android - Google Maps - Práctica
+
+En esta aplicación, se obtienen los datos de los centros de salud con "Buenas Prácticas" que se encuentran habilitados en la ciudad de Mar del Plata. Con los datos consumidos desde una API, se arma un mapa localizado en la ciudad y se marcan la ubicación de cada centro de salud. Luego, al tocar cada centro (mark), se muestran los datos de los mismos, a saber:
+
+* Nombre
+* Servicios
+* Días y horarios de atención
+* Dirección
+* Contacto
+
+

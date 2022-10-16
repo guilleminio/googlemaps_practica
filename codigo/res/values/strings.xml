@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PruebaMapas</string>
+    <string name="title_activity_maps">Centros de Salud</string>
+
+    <string name="txTitulo">Red de Establecimiento de salud con equipos de atención de salud integral para la comunidad LGBT+\nMar del Plata</string>
+    <string name="txUINombreCentro">NOMBRE:</string>
+    <string name="txUIServicioCentro">SERVICIOS:</string>
+    <string name="txUIHorarioCentro">DÍAS Y HORARIOS DE ATENCIÓN:</string>
+    <string name="txUIDireccionCentro">DIRECCIÓN:</string>
+    <string name="txUIContactoCentro">CONTACTO:</string>
+
+    <string name="txCargandoMapa">Cargando mapa…</string>
+</resources>
